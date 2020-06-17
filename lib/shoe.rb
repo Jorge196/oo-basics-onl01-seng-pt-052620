@@ -7,5 +7,6 @@ class Shoe
     @brand = brand
   end
 
-  def 
+  def shoe.cobble
+    puts 
 end
