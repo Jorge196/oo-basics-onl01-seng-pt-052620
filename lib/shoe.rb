@@ -8,5 +8,5 @@ class Shoe
   end
 
   def shoe.cobble
-    puts 
+    puts "Your shoe is good as new!"
 end
